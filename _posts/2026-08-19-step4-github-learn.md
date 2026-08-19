@@ -1,4 +1,4 @@
 ---
-title: "Steap 4"
+title: "Step 4"
 date: 2026-08-19
 ---
